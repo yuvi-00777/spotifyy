@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-icons": "^4.4.0",
+    "spotify-web-api-js": "^1.5.2"
+  }
+}
